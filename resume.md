@@ -6,7 +6,7 @@
 Frontend Engineer.  Developing solutions for all screens.  Big fan of javascript, npm, unix philosophy, browserify, current state of technology!  There is much to learn, and you can make anything you are working on interesting.
 
  ### Work History ###
-#### 2007-Current:  Principal Frontend Engineer, Yahoo! Video ####
+#### 2007-Current:  Principle Frontend Engineer, Yahoo! Video ####
 Responsibilites:
  * Lead 3-4 developers on various projects (livestream nfl game, video on homepage, reusable autopla
  * Develop highly cacheable and scalable solutions to efficiently handle massive traffic.
