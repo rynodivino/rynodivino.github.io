@@ -1,4 +1,7 @@
  # Ryan Nichols #
+ * [LinkedIn](https://www.linkedin.com/in/ryan-nichols-12815b7)
+ * [Twitter](https://www.twitter.com/rynodivino)
+ * [Github](https://github.com/rynodivino)
 
 Frontend Engineer.  Developing solutions for all screens.  Big fan of javascript, npm, unix philosophy, browserify, current state of technology!  There is much to learn, and you can make anything you are working on interesting.
 
